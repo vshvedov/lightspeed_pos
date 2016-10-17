@@ -65,5 +65,5 @@ SignalException:
 DoubleNegation:
   Enabled: false
 
-TrailingComma:
+TrailingCommaInLiteral:
   Enabled: false
